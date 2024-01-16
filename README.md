@@ -1,16 +1,15 @@
-# expense_tracker
+# Expense_Tracker Assignment by CipherSchools
 
-A new Flutter project.
+An Expense Tracker Flutter project.
 
-## Getting Started
+Project is created from Figma design of CipherSchool 
 
-This project is a starting point for a Flutter application.
+The Apk file is also added in the given files.
 
-A few resources to get you started if this is your first Flutter project:
+For Local Storage Hive dependancy used, the expense and income is sucessfully caliberated
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The preview of an Application and the working
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Lomesh21/CipherSchools-Flutter-Assignment/assets/94422862/6113dadf-ae8d-4da5-89f3-8f87e1b00583
+
+
