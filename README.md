@@ -10,6 +10,4 @@ For Local Storage Hive dependancy used, the expense and income is sucessfully ca
 
 The preview of an Application and the working
 
-https://github.com/Lomesh21/CipherSchools-Flutter-Assignment/assets/94422862/6113dadf-ae8d-4da5-89f3-8f87e1b00583
-
-
+![preview (1)](https://github.com/Lomesh21/CipherSchools-Flutter-Assignment/assets/94422862/243aaf94-0cb1-4c4b-90f1-db9a3f031cb0)
